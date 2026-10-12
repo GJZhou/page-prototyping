@@ -1,0 +1,7 @@
+interface:
+  display_name: "Page Prototyping"
+  short_description: "根据需求生成项目可运行页面原型"
+  default_prompt: "Use $page-prototyping to turn these project requirements into a runnable page prototype using the existing frontend stack and mock data only."
+
+policy:
+  allow_implicit_invocation: true
